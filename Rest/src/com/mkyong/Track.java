@@ -21,9 +21,9 @@ public class Track {
 		this.singer = singer;
 	}
 
-	@Override
+
 	public String toString() {
-		return "Track [title=" + title + ", singer=!!!!!!!!!!!" + singer + "]";
+		return "Track [title=====" + title +", singer=====" + singer + "]";
 	}
 
 }
